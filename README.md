@@ -1,4 +1,4 @@
 # clock
 javascript / clock 
 
-Zegarek napisany w javascript
+Zegarek napisany w javascript.
